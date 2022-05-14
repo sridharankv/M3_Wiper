@@ -3,7 +3,7 @@
 ## BADGES
 | Codiga | ![Codiga](https://api.codiga.io/project/33482/status/svg) |
 | :----: | :---------: |
-| Codiga | ![Codiga](https://api.codiga.io/project/33482/status/svg) |
+| Codacy | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/33f47088cbde452e8f227748ae7e8fbd)](https://www.codacy.com/gh/sridharankv/M3_WiperControlSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sridharankv/M3_WiperControlSystem&amp;utm_campaign=Badge_Grade) |
 
 
 
