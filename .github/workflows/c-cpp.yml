@@ -1,4 +1,4 @@
-name: Cppcheck Analysis
+name: Build CI - Linux
 
 on:
   push:
@@ -13,8 +13,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - name: Install-Cppcheck
-      run: sudo apt-get install cppcheck
-    - name: Analyse
-      run: cppcheck--enable=all 3_Implementation
-   
+    - name: Build
+      run: make -C 3_Implementation
