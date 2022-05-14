@@ -2,6 +2,8 @@
 
 ## BADGES
 | Codiga | ![Codiga](https://api.codiga.io/project/33482/status/svg) |
+| Codiga | ![Codiga](https://api.codiga.io/project/33482/status/svg) |
+
 | :----: | :---------: |
 
 
