@@ -1,4 +1,4 @@
-# 0utput
+# Output
 
 ## WHEN WIPER IN ON STATE
 
