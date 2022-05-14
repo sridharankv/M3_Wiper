@@ -1,5 +1,7 @@
 # M3_WiperControlSystem
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e47483a482e24f238bb7904b6f3ef000)](https://app.codacy.com/gh/sridharankv/M3_WiperControlSystem?utm_source=github.com&utm_medium=referral&utm_content=sridharankv/M3_WiperControlSystem&utm_campaign=Badge_Grade_Settings)
+
 ## BADGES
 | Codiga | ![Codiga](https://api.codiga.io/project/33482/status/svg) |
 | :----: | :---------: |
